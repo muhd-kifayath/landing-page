@@ -13,18 +13,19 @@ body {
     align-items: center;
 }
 .nav li {
-    margin: 20px;
+    margin: 20px 10px;
     display: inline-block;
-    text-align: center;
+    text-align: justify;
 }
 
 .header-logo {
     font-size: 24px;
+    text-align: left;
 }
 .header-items {
     display: inline-block;
     margin-top: 3vh;
-    margin-left: 10%;
+    margin-left: 20%;
 }
 a { 
     color: #E5E7EB;
